@@ -74,7 +74,7 @@ export const projects: Project[] = [
     category: "frontend",
     githubUrl: "https://github.com/philipmag",
     liveUrl: "#",
-    image: "https://d2xsxph8kpxj0f.cloudfront.net/110291972/6FpJWqmAcyACmMchXZeDxb/project-portfolio-oKchSrzWrjPSr6MC5rw2kf.webp",
+    image: "https://d2xsxph8kpxj0f.cloudfront.net/110291972/6FpJWqmAcyACmMchXZeDxb/project-portfolio-v2-YE5RUCq3uQXdcPv3aDmmjd.webp",
     featured: true,
   },
   {
