@@ -1,5 +1,7 @@
 # 💼 Magok Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 > A responsive, accessible personal portfolio built with React and TypeScript to showcase projects, skills, and experience.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
